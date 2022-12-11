@@ -12,7 +12,7 @@
 
 <h1 align="center"> Hoş geldin sevgili dostum, hoş geldin.. </h1>
 
-![image](https://user-images.githubusercontent.com/101149671/201470246-0f7a1ee8-eda2-47c1-99f3-8708764fba4a.png)
+
 
 ## Sistem gereksinimleri:
 
