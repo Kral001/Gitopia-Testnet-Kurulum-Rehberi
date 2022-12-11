@@ -1,6 +1,8 @@
 # Gitopia-Testnet-Kurulum-Rehberi
 <h1 align="center"> Gitopia </h1>
 
+![image](https://user-images.githubusercontent.com/101149671/201470278-31aa9701-c0be-404c-9b39-a6b481727728.png)
+
 
 <h1 align="center"> Uzun zamandır beklediğimiz proje başladı.. </h1>
 
